@@ -18,6 +18,9 @@
 - [Proffy 2.0](https://github.com/cp-yago/proffy-mobile)
 - [GoBarber mobile](https://github.com/cp-yago/gobarber-app)
 - [GoBarber backend](https://github.com/cp-yago/iniciando-backend)
+- [Happy mobile](https://github.com/cp-yago/happy-mobile)
+- [Happy web](https://github.com/cp-yago/happy-web)
+- [Happy server](https://github.com/cp-yago/happy-server)
 
 📫 You can find me:
 
