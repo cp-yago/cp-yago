@@ -1,8 +1,15 @@
 # Hi there, I'm Yago 👋
 
-### I'm developer student!
+### I'm junior developer, currently looking for my first professional experience.!
 
 🔭 I’m currently learning JavaScript Stack (React, React Native, Node.js).
+
+⚡ I’m currently working on:
+
+RentX! Fictitious luxury car rental
+
+- [RentX App](https://github.com/cp-yago/rentx-app)
+- [RentX Api](https://github.com/cp-yago/rentx-api)
 
 🌱 My current stack:
 - Programming Languages: Javascript, TypeScript
