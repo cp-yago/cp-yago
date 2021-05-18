@@ -1,24 +1,16 @@
 # Hi there, I'm Yago 👋
 
-### I'm junior developer, currently looking for my first professional experience.!
+### I'm junior developer, currently working on Vixting
 
 🔭 I’m currently learning JavaScript Stack (React, React Native, Node.js).
 
-⚡ I’m currently working on:
-
-RentX! Fictitious luxury car rental
-
-- [RentX App](https://github.com/cp-yago/rentx-app)
-- [RentX Api](https://github.com/cp-yago/rentx-api)
 
 🌱 My current stack:
 - Programming Languages: Javascript, TypeScript
 - Frameworks: Express.js, React
-- Database: PostgreSQL, MongoDB
+- Database: MySQL, PostgreSQL, MongoDB
 - Other tools: Git, Docker, Linux;
 
-## 😄 Current goals:
-- Become a front-end developer
 
 ## Latest Projects
 
