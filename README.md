@@ -1,6 +1,6 @@
 # Hi there, I'm Yago 👋
 
-### I'm junior developer, currently working on Vixting
+### I'm full stack developer, currently working on Vixting
 
 🔭 I’m currently learning JavaScript Stack (React, React Native, Node.js).
 
