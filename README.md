@@ -2,8 +2,6 @@
 
 ### I'm full stack developer, currently working on Vixting
 
-🔭 I’m currently learning JavaScript Stack (React, React Native, Node.js).
-
 
 🌱 My current stack:
 - Programming Languages: Javascript, TypeScript
