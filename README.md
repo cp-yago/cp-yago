@@ -1,6 +1,6 @@
 # Hi there, I'm Yago 👋
 
-### I'm full stack developer, currently working on Vixting
+### I'm full stack developer, currently working at [Dataside](https://www.dataside.com.br/data-analytics-ia?lang=en)
 
 
 🌱 My current stack:
@@ -21,4 +21,4 @@
 
 📫 You can find me:
 
-[Linkedin](https://www.linkedin.com/in/yagocunha) | [GitHub](https://github.com/cp-yago) | [Instagram](https://www.instagram.com/cp_yago/) or email me yago.cunha123@gmail.com
+[Linkedin](https://www.linkedin.com/in/yagocunha) | [Instagram](https://www.instagram.com/cp_yago/) or email me yago.cunha123@gmail.com
