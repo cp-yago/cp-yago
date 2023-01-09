@@ -3,6 +3,7 @@
 ## About me
 - Passionate about turning ideas into reality through good code.
  - Currently working at [Dataside](https://www.dataside.com.br/data-analytics-ia?lang=en) as a Full Stack Developer.
+ - 2+ years of experience
 
 
 ## Things I code with:
