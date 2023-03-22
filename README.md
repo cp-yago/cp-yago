@@ -1,12 +1,12 @@
 # Hi there, I'm Yago 👋
 
 ## About me
-- Passionate about turning ideas into reality through good code.
- - Currently working at [Dataside](https://www.dataside.com.br/data-analytics-ia?lang=en) as a Full Stack Developer.
- - 3 years of experience
+- Passionate about turning ideas into reality through good coding.
+- Currently working at [Dataside](https://www.dataside.com.br/data-analytics-ia?lang=en) as a Full Stack Developer.
+- 3 years of experience
 
 
-## Things I code with:
+## Technologies I code with:
 - Javascript, TypeScript
 - React, Node.js
 - Context API
